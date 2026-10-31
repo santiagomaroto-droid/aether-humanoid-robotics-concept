@@ -69,13 +69,7 @@ Public sources are collected in [`AETHER_PORTFOLIO/04_References/Public_Sources.
 
 ## Contact
 
-**Author:** Santiago [surname]
-
-- LinkedIn: [add profile URL]
-- Portfolio: [add portfolio URL, if available]
-- Email: [add professional email]
-
-Replace these placeholders before sharing the repository as a finished application portfolio.
+**Author:** Santiago 
 
 ## Rights and reuse
 
