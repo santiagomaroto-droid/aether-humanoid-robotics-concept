@@ -4,7 +4,7 @@
 
 > **Important disclaimer:** This is an independent concept study. It is **not** an official Figure AI project, is not endorsed by or affiliated with Figure AI, and does not describe or predict any unreleased Figure product. “Figure 05” is used only as a hypothetical framing for this portfolio exercise. All Figure names and marks belong to their respective owners.
 
-![AETHER concept board](AETHER_PORTFOLIO/01_Concept_Design/AETHER_master_concept_board.png)
+![AETHER concept board](AETHER_master_concept_board.png)
 
 ## Project question
 
